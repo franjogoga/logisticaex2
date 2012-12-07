@@ -6,7 +6,7 @@ package logisticasystemex2;
 
 /**
  *
- * @author CARLOS, JONATAN
+ * @author CARLOS, JONATAN, PSY
  */
 public class LogisticaSystemEX2 {
 
